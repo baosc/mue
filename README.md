@@ -1,5 +1,5 @@
 # mue
-My Vue
+My Vue, 简单实现Vue
 
 ---
 
